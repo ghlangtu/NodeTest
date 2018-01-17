@@ -1,0 +1,2 @@
+C:\Users\C213618\NodeProjects\VideoStore\VideoStoreProject\obj\Debug\VideoStoreProject.njsprojResolveAssemblyReference.cache
+C:\Users\C213618\NodeProjects\VideoStore\VideoStoreProject\bin\Microsoft.NodejsTools.WebRole.dll
